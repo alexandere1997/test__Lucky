@@ -1,2 +1,3 @@
-# test__Lucky
-test__Lucky
+npm install
+gulp
+
